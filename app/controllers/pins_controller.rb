@@ -40,6 +40,12 @@ class PinsController < ApplicationController
   end
 
 
+  def upvote
+    @pin.upvote_by current_user
+    redirect_to :back
+  end
+
+
   private
 
   def pin_params
