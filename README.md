@@ -14,7 +14,7 @@ https://github.com/mackenziechild/pinterest_clone
 
 
 ###demo圖
-![demo1](https://github.com/coolsea/rails-12in12-pinterest_clone/raw/master/app/assets/images/2015-02-08.png)
+![demo1](https://github.com/coolsea/rails-12in12-pinterest_clone/raw/master/app/assets/images/2015-02-08-1.png)
 
 
 ###TIP:
