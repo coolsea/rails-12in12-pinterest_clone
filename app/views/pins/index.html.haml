@@ -1,0 +1,6 @@
+#pins.transitions-enabled
+  - @pins.each do |pin|
+    .box.panel.panel-default
+      %h2= link_to pin.title, pin
+      %p.user
+        Submitted by
